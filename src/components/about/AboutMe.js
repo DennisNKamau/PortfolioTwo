@@ -7,21 +7,19 @@ const AboutMe = () => {
         <div className="py-6">
           <h2 className="font-semibold mb-1">Hello! I'm Dennis Kamau</h2>
           <p className="text-base leading-6 ">
-            Web designer from USA, California. I have rich experience in web
-            site design and building, also I am good at wordpress. I love to
-            talk with you about our unique.
+          I enjoy creating things that live on the internet. My journey in software development began with a keen interest in creating intuitive user experiences and has evolved into a comprehensive understanding of the entire development lifecycle.
           </p>
         </div>
       </div>
       <div className="w-full md:w-1/2 p-6">
         <ul className="flex flex-col gap-1">
           <li className="aboutRightLi">
-            <span className="aboutRightLiSpan">Age:</span>
-            24
+            <span className="aboutRightLiSpan">OCCUPATION:</span>
+            Web Developer
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Residence:</span>
-            USA
+            KENYA
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Freelance:</span>
@@ -29,7 +27,7 @@ const AboutMe = () => {
           </li>
           <li className="aboutRightLi">
             <span className="aboutRightLiSpan">Address:</span>
-            California, USA
+            Nairobi, KENYA
           </li>
         </ul>
       </div>
