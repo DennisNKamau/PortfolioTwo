@@ -28,33 +28,47 @@ const Left = () => {
       </div>
       <div className="w-full h-2/5 flex flex-col justify-between border-t-0 rounded-bl-xl rounded-br-xl">
         <div className="flex flex-col items-center gap-2 py-10">
-          <h1 className="text-textColor text-4xl font-semibold">John Doe</h1>
+          <h1 className="text-textColor text-4xl font-semibold">Dennis Kamau</h1>
           <p className="text-base text-designColor tracking-wide">
             {text}
             <Cursor cursorBlinking="false" cursorStyle="|" />
           </p>
           <div className="flex justify-center gap-2 mt-2">
+          <a href="https://github.com/DennisNKamau" target="_blank">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FaGithub />
             </span>
+            </a>
+            <a href="https://www.linkedin.com/in/-dennis-kamau-/" target="_blank">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FaLinkedin />
             </span>
+            </a>
+            <a href="#" target="_blank">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <SiYoutubemusic />
             </span>
+            </a>
+            <a href="#" target="_blank">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <BsFacebook />
             </span>
+            </a>
+            <a href="https://www.instagram.com/dennis_k.a.m.a.u/" target="_blank">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FiInstagram />
             </span>
+            </a>
+            <a href="https://twitter.com/_DennisKamau_" target="_blank">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <AiFillTwitterCircle />
             </span>
+            </a>
+            <a href="#" target="_blank">
             <span className="hover:text-designColor duration-300 cursor-pointer text-xl">
               <FiMail />
             </span>
+            </a>
           </div>
         </div>
         <div className="flex h-14">
