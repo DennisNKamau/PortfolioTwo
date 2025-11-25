@@ -15,7 +15,7 @@ const MyServices = () => {
       />
       <ServicesCard
         icons={<SiAntdesign />}
-        title="Web Design"
+        title="Graphic Design"
         subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
       />
       <ServicesCard
