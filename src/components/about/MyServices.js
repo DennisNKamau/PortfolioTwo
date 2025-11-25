@@ -11,7 +11,7 @@ const MyServices = () => {
       <ServicesCard
         icons={<BiCodeAlt />}
         title="Web Development"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        subTitle="I build fast, responsive, and user-friendly websites that deliver real results. My focus is on clean code, modern design, and seamless user experiences whether it's a simple landing page or a Full-scale web application."
       />
       <ServicesCard
         icons={<SiAntdesign />}
