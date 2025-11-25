@@ -21,7 +21,7 @@ const MyServices = () => {
       <ServicesCard
         icons={<AiTwotoneAppstore />}
         title="Mobile Application"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        subTitle="I build intuitive and scalable mobile applications with smooth interfaces and strong performance. Whether it's a prototype or a fully functional app, I focus on delivering solutions that are both practical and enjoyable to use"
       />
       <ServicesCard
         icons={<FaAppStoreIos />}
