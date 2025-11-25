@@ -16,17 +16,17 @@ const MyServices = () => {
       <ServicesCard
         icons={<SiAntdesign />}
         title="Graphic Design"
-        subTitle="I create visually compelling designs that bring brands to life. From logos to full brand identities, my work blends creativity, clarity, and strategy — ensuring every design communicates a message and leaves a lasting impression."
+        subTitle="I create visually compelling designs that bring brands to life. From logos to full brand identities, my work blends creativity, clarity, and strategy ensuring every design communicates a message and leaves a lasting impression."
       />
       <ServicesCard
         icons={<AiTwotoneAppstore />}
         title="Mobile Application"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        subTitle="I build intuitive and scalable mobile applications with smooth interfaces and strong performance. Whether it's a prototype or a fully functional app, I focus on delivering solutions that are both practical and enjoyable to use"
       />
       <ServicesCard
         icons={<FaAppStoreIos />}
         title="SEO"
-        subTitle="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, provident. Accusamus at dolorem expedita dicta."
+        subTitle="I help websites get discovered. My SEO approach focuses on improving visibility, increasing traffic, and boosting rankings using ethical, data-driven strategies."
       />
     </div>
   );
